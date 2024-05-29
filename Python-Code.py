@@ -3,7 +3,6 @@ from itertools import product                                                   
 import random 
 
 
-
 start = ['W','W','W','W','G','G','O','O','B','B','R','R','G','G','O','O','B','B','R','R','Y','Y','Y','Y']              # farbfolge des Zauberwürfels zu Beginn
 
 def eltern_kind_beziehung(achse, schicht):                                                                             # um eine Funktion welche die Eltern-Kind-Beziehung zwischen den Würfeln auf einer achse und einer Schicht zum Zentrum herstellt zu definieren 
